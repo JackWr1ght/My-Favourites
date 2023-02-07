@@ -1,0 +1,21 @@
+html {
+  background-color: cornflowerblue;
+}
+
+body {
+  background-color: white;
+  border: solid;
+  border-radius: 15px;
+  width: 1024px;
+  margin: 25px auto;
+  padding: 25px 50px 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  margin-top: 64px;
+}
+
+.center {
+  text-align: center;
+}
